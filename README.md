@@ -7,4 +7,5 @@ This repository is built step by step in the tutorial.
 
 esto es mi primer texto en un repositorio remoto de GitHub
 
-si ves este mensaje borralo
+listo ya lo borre
+
