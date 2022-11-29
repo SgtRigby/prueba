@@ -10,6 +10,7 @@ esto es mi primer texto en un repositorio remoto de GitHub
 listo ya lo borre
 
 ya lo hice
+URRUTIA GEi
 
-yaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 
